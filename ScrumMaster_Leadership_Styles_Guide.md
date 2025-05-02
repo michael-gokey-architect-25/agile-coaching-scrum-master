@@ -101,4 +101,3 @@ Holacracy is a governance system where decision-making is distributed among role
 
 ---
 
-(*...remaining styles continue in the full document...*)
